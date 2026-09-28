@@ -1,0 +1,21 @@
+STREAMING_CHUNK:Ignoring node_modules and system files...
+
+node_modules/
+.npm
+package-lock.json
+
+STREAMING_CHUNK:Ignoring test reports...
+
+coverage/
+test-results/
+.jest/
+
+STREAMING_CHUNK:Ignoring environment variables...
+
+.env
+.env.local
+
+STREAMING_CHUNK:Ignoring OS generated files...
+
+.DS_Store
+Thumbs.db
